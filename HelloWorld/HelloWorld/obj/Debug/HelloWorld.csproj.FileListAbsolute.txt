@@ -1,0 +1,13 @@
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\hcduc.AMERICAS\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,3 @@
+﻿- Application was designed to be as simple as possible.
+- In a larger enterprise location the code would be seperated in to projects instead of folders.
+- In a larger application, I would do things much different.
